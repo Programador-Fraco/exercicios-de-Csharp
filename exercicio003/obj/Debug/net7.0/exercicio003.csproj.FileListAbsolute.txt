@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Csharp\exercicio003\obj\Debug\net7.0\exercicio003.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Csharp\exercicio003\obj\Debug\net7.0\exercicio003.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Csharp\exercicio003\obj\Debug\net7.0\exercicio003.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Csharp\exercicio003\obj\Debug\net7.0\exercicio003.AssemblyInfo.cs
+C:\xampp\htdocs\Csharp\exercicio003\obj\Debug\net7.0\exercicio003.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Csharp\exercicio003\bin\Debug\net7.0\exercicio003.exe
+C:\xampp\htdocs\Csharp\exercicio003\bin\Debug\net7.0\exercicio003.deps.json
+C:\xampp\htdocs\Csharp\exercicio003\bin\Debug\net7.0\exercicio003.runtimeconfig.json
+C:\xampp\htdocs\Csharp\exercicio003\bin\Debug\net7.0\exercicio003.dll
+C:\xampp\htdocs\Csharp\exercicio003\bin\Debug\net7.0\exercicio003.pdb
+C:\xampp\htdocs\Csharp\exercicio003\obj\Debug\net7.0\exercicio003.dll
+C:\xampp\htdocs\Csharp\exercicio003\obj\Debug\net7.0\refint\exercicio003.dll
+C:\xampp\htdocs\Csharp\exercicio003\obj\Debug\net7.0\exercicio003.pdb
+C:\xampp\htdocs\Csharp\exercicio003\obj\Debug\net7.0\exercicio003.genruntimeconfig.cache
+C:\xampp\htdocs\Csharp\exercicio003\obj\Debug\net7.0\ref\exercicio003.dll
